@@ -23,8 +23,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Rollsi/coffeestore/tree/main
+cd coffeestore
 ```
 
 2. Install dependencies:
